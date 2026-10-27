@@ -116,7 +116,7 @@ while True:
             print("No members to search!")
     elif choose_number_user == "4":
         print("Ok, have see you next time.")
-        exit
+        exit()
     else:
         print("Invalid choise! Pleas try agine.")
         time.sleep(2) 
